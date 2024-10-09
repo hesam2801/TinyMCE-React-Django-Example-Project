@@ -27,7 +27,7 @@ this code is for mac: \
 - Step 7: Now, it's time to install the necessary npm packages, run the following command in the terminal: \
 `npm install`
 ## How to lunch:
-- To start the server, open the first terminal window and enter the following command:
+- To start the server, open the first terminal window and enter the following command: \
 `python manage.py runserver`
 - Next, switch to the second terminal window and enter the following command:\
 `npm start`
